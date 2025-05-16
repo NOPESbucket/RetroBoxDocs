@@ -18,7 +18,7 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/RetroBox/',
+  baseUrl: '/RetroBoxDocs/',
 
   // Plugins to load
   plugins: ['@docusaurus/theme-live-codeblock'],
@@ -26,7 +26,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NOPESbucket', // Usually your GitHub org/user name.
-  projectName: 'RetroBox', // Usually your repo name.
+  projectName: 'RetroBoxDocs', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'warn',
